@@ -1,0 +1,7 @@
+##nome = input('Digite o nome da sua cidade: ')
+#var =  nome.title().find('Silva')
+#print(var)
+nome = str(input('Digite o nome da sua cidade: ')).strip()
+nome2 = 'Silva' in nome.title()
+print(nome)
+print(nome.title())
