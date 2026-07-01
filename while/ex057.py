@@ -6,11 +6,11 @@ valor2= int(input('Digite seu valor: '))
 opcao =0
 while opcao != 5:
     print(f'Os valores atuais: {valor1} e {valor2}')
-    print('[1]- Somar')
-    print('[2]- Multiplicar')
-    print('[3]- Maior')
-    print('[4]- Novos Números')
-    print('[5]- Sair do programa')
+    print('''[1]- Somar
+[2]- Multiplicar
+[3]- Maior
+[4]- Novos Números
+[5]- Sair do programa''')
     opcao = int(input('Digite sua opção 1/2/3/4/5: '))
     if opcao ==1:
      somar = valor1 + valor2
