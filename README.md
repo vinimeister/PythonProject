@@ -81,7 +81,7 @@ Este repositório documenta minha jornada completa de aprendizado em Python, com
 ### 🚀 **MUNDO 3: Avançando no Python** (🔄 EM ANDAMENTO)
 
 #### 📖 Módulo 1: Tuplas
-- [ ] Tuplas em Python (7 Aulas)
+- [x] Tuplas em Python (7 Aulas)
 - [ ] Desempacotamento de tuplas
 - [ ] Métodos com tuplas
 
